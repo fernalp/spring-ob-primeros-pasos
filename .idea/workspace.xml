@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5377dddf-8984-4ebc-ad3f-58a99caf3377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+    <list default="true" id="5377dddf-8984-4ebc-ad3f-58a99caf3377" name="Changes" comment="Primeros pasos con Spring">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/GestorFacturas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1676073681" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1676073680" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,6 +80,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "c59e4fb5f4c44b2cc3ea8fd58295bdaf",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,11 +94,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676071279781</updated>
-      <workItem from="1676071280634" duration="2250000" />
+      <workItem from="1676071280634" duration="2667000" />
+      <workItem from="1676074145736" duration="105000" />
+      <workItem from="1676074268838" duration="90000" />
+      <workItem from="1676074374935" duration="244000" />
+      <workItem from="1676074651592" duration="94000" />
+      <workItem from="1676074763196" duration="1005000" />
+      <workItem from="1676340531490" duration="3265000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeros pasos con Spring">
+      <created>1676073725840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676073725840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeros pasos con Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos con Spring" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
