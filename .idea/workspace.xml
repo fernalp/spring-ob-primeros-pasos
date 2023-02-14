@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5377dddf-8984-4ebc-ad3f-58a99caf3377" name="Changes" comment="Primeros pasos con Spring">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/GestorFacturas.java" afterDir="false" />
+    <list default="true" id="5377dddf-8984-4ebc-ad3f-58a99caf3377" name="Changes" comment="Configuración de dos bean de forma manual (gestorFacturas y calculadora)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openbootcamp/GestorFacturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openbootcamp/GestorFacturas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +97,7 @@
       <workItem from="1676074374935" duration="244000" />
       <workItem from="1676074651592" duration="94000" />
       <workItem from="1676074763196" duration="1005000" />
-      <workItem from="1676340531490" duration="3265000" />
+      <workItem from="1676340531490" duration="4178000" />
     </task>
     <task id="LOCAL-00001" summary="Primeros pasos con Spring">
       <created>1676073725840</created>
@@ -109,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676073725840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Configuración de dos bean de forma manual (gestorFacturas y calculadora)">
+      <created>1676343895174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676343895175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeros pasos con Spring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos con Spring" />
+    <MESSAGE value="Configuración de dos bean de forma manual (gestorFacturas y calculadora)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuración de dos bean de forma manual (gestorFacturas y calculadora)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

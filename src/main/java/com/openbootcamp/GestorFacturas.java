@@ -1,11 +1,13 @@
 package com.openbootcamp;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class GestorFacturas {
     Calculadora calculadora;
-    String name;
-    public GestorFacturas(Calculadora calculadora, String name) {
+
+    public GestorFacturas(Calculadora calculadora) {
         this.calculadora = calculadora;
-        this.name = name;
         System.out.println("Ejecutando constructor de GestorFacturas");
     }
 }

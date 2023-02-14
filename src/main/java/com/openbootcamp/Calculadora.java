@@ -1,5 +1,8 @@
 package com.openbootcamp;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Calculadora {
 
     public Calculadora() {
